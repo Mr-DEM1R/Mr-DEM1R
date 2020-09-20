@@ -1,6 +1,5 @@
-### Hi there 👋
 
-# PROFILE
+# WELCOME MY PROFILE
 <h1 align="center">Hi 👋, I'm Mehmet Omer DEMIR</h1>
 <h3 align="center">Machine learning and Deep learning engineer from Turkey</h3>
 
